@@ -1,0 +1,31 @@
+WoW-Mania Manager @WoW-Mania Manager  commands: 
+
+After the command please put @name for this to work.
+!ban
+Bans a user from the server
+!tempban
+Temporarily bans a user from the server
+!clear (This comm is a Admin and owner role only command) 
+Delete a channel's messages
+!infractions
+Displays a user's infractions
+!kick
+Kicks a user from the server
+!mute (this one will mute them for life if you want)
+Server-mutes a user
+!tempmute ( for this one you can mute them for amount of minutes) !tempmute @GM Vousalan 30m spam
+Temporarily server-mutes a user
+!role-info
+Get information about a particular role
+!server-info
+Get information about the current server
+!slowmode
+Enables or Disables slowmode in a channel
+!unban
+Release your prisoners with one message, or don't
+!unmute
+Unmutes a user
+!user-info
+Get information about a particular user
+!warn
+Warns a user
